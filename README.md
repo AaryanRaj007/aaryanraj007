@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 <p align="left">
   <a href="https://discord.com/users/1478789989423906869">
