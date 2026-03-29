@@ -6,4 +6,7 @@
     <img src="logo.png" width="30">
   </a>
 </p>
-https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg">
+</p>
