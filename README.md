@@ -2,7 +2,9 @@
   <img src="github-header-banner (1).png" width="100%" alt="Hey! I am Aaryan. Learning Development.">
 </p>
 
-<h2 align="left">Hi, I am  exploring development and building small projects..</h2>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=FFFFFF&width=800&lines=Hi,+I+am+exploring+development+and+building+small+projects..&center=false&vCenter=false&repeat=false&autoplay=false" alt="Static Pixel Text" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaryanraj007&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
