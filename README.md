@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" />
   <img width="12" />
-  <img src="antigravity.svg" height="30" />
+  <img src="google-antigravity.svg" height="30" />
 </div>
 
 
